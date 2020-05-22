@@ -9,7 +9,7 @@
             So, there isn't really much to tell, but anyways. <br>
             I am Russian, living in Cyprus for the past 12 years,
             really like coding, love my dog and adore my wife. Got interested in coding when I was 13, and basically
-            never stopped.
+            never stopped. Oh and yeah I am 18 right now.
           </p>
 
           <h3>Why did I make this?</h3>
