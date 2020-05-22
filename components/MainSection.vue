@@ -60,11 +60,5 @@ export default {
 }
 .is-one-quarter {
   padding: 0 20px;
-  &.right-sidebar {
-    border-left: 1px solid #eee;
-  }
-  &.left-sidebar {
-    border-right: 1px solid #eee;
-  }
 }
 </style>
