@@ -22,7 +22,6 @@
             <!-- Related Posts -->
             <posts-grid :number="3" :category="category" :exclude="slug" />
           </div>
-          <disqus-comments :identifier="$route.params.singlePost" />
         </div>
       </template>
       <template v-slot:sidebar>

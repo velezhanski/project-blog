@@ -43,8 +43,7 @@
     "react": "^16.8.6",
     "showdown": "^1.9.1",
     "url-parse": "^1.4.7",
-    "v-runtime-template": "^1.10.0",
-    "vue-disqus": "^3.0.5"
+    "v-runtime-template": "^1.10.0"  
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",
