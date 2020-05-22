@@ -1,6 +1,6 @@
 ---
 title: Who Am I?
-subtitle: This is post with basically a summary of who I am
+subtitle: This is a post with basically a summary of who I am
 category:
   - Just About Me
 date: 2020-05-22T20:58:49.319Z
