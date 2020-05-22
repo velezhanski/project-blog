@@ -5,3 +5,7 @@ html, .navbar, .card, code, pre {
 h1, h2, h3, h4, h5, h6, p, body, .subtitle strong, strong {
   color: $text-color !important;
 }
+
+.quote-card {
+  box-shadow: 3px 3px 15px 5px rgba(255, 255, 255, 0.1) !important;
+}
