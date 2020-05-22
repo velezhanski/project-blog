@@ -1,12 +1,6 @@
 <template>
   <div id="post-page" class="page-wrapper post-page">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
-      <span
-        v-if="author && $siteConfig.posts.displayAuthor"
-        class="author-wrapper"
-      >
-        <strong>Author:</strong> {{ author }}
-      </span>
       <span v-if="date" class="date-wrapper">
         <strong>Published on:</strong> {{ date }}
       </span>
@@ -47,7 +41,6 @@ export default {
       'subtitle',
       'featureImage',
       'underSubtitle',
-      'author',
       'category',
       'slug'
     ]),

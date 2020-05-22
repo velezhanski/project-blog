@@ -5,7 +5,6 @@ export const state = () => ({
   subtitle: '',
   featureImage: '',
   content: '',
-  author: '',
   date: ''
 })
 export const mutations = {

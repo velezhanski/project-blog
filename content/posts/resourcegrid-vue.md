@@ -3,7 +3,6 @@ title: ResourceGrid.vue
 subtitle: Easily Display Grid of Posts/Categories Throughout the Site
 category:
   - About Awake
-author: Daniel Kelly
 date: 2019-08-02T04:27:56.800Z
 featureImage: /uploads/resource-grid-hero.jpg
 ---

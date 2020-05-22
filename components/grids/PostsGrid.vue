@@ -9,7 +9,6 @@
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
         :image="item.featureImage"
-        :author="item.author"
         :date="item.date"
       />
     </template>
