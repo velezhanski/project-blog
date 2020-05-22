@@ -62,6 +62,10 @@ export default {
   }
 }
 .card {
+  box-shadow: 0px 0px 5px 5px #01d2b24a;
+  max-width: 100%;
+  position: relative;
+  
   @media (min-width: 768px) {
     height: 100%;
   }
