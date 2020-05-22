@@ -14,7 +14,7 @@
           <p>
             Well, I really wanted a kind of a little corner for myself on the web, which is not just a website built by
             me, but also a platform where I can post some things, be it some stories or an interesting project I am
-            working on.
+            working on. Let's see how it goes :P
           </p>
           <quote-card />
         </div>
