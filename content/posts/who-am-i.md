@@ -3,7 +3,7 @@ title: Who Am I?
 subtitle: This is a post with basically a summary of who I am
 category:
   - Just About Me
-date: 2020-05-22T20:58:49.319Z
+date: 2020-06-22T20:58:49.319Z
 featureImage: /uploads/my-story.jpg
 ---
 Hey, so this is officially my first ever personal blog post. Here I would like to tell you about myself a little bit. Soooo, I am an 18-year-old software developer. That should be enough, right? 
