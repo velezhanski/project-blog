@@ -87,6 +87,6 @@ sw.*
 # Mac OSX
 .DS_Store
 
-#Awake CMS
+# CMS
 static/api
 static/admin
