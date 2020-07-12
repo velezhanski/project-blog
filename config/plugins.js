@@ -3,5 +3,5 @@ export default [
   '~/plugins/OptiImage',
   '~/plugins/EventBus',
   '~/plugins/Components',
-  '~/plugins/Analytics'
+  '~/plugins/Analytics.client'
 ]
