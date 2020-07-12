@@ -4,7 +4,7 @@ subtitle: So I have been noticing myself recently become really lazy
 category:
   - Just About Me
 date: 2020-07-12T02:39:58.831Z
-featureImage: /uploads/procrastination.png
+featureImage: /uploads/procrastination.jpg
 ---
 So, already more than a month ago I have set out a goal for myself to start my first ever company, in which the first step was finding a client, which I gave myself a month to accomplish. Well, it took a couple of days... 
 
